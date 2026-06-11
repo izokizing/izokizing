@@ -10,6 +10,7 @@
 1. Check your changes
 2. Stage your file
 3. Verify the staging area
+
 | TOOL              | PURPOSE | LINK                                      |
 |-------------------|---------|-------------------------------------------|
 | Cursor            | Coding  |[Link text](https://cursor.com/)           |
