@@ -25,8 +25,8 @@ print("Hello, world!")
 ```
 > The secret of success is to do the common things uncommonly well
 #### About me 
-*My talent*
+#### *My talent*
 `multi talented`
-*Favorite food*
+#### *Favorite food*
 1. Chapati
 2. Nyama Choma
