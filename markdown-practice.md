@@ -2,6 +2,7 @@
 ### This Semester
 **i want to know about** *java script*,*Html* and *marchine learnig* `Languages` 
 [Link text](https://github.com/izokizing)[Link text](https:www.instagram.com/izokizing?igsh=ZGU1dG1vNXFmYTJu) 
+### Things i want to learn
 -Programming
 -Web design
 -cyber security
