@@ -3,9 +3,9 @@
 **i want to know about** *java script*,*Html* and *marchine learnig* `Languages` 
 [Link text](https://github.com/izokizing)[Link text](https:www.instagram.com/izokizing?igsh=ZGU1dG1vNXFmYTJu) 
 ### Things i want to learn
--Programming
--Web design
--cyber security
+- Programming
+- Web design
+- cyber security
 1. Check your changes
 2. Stage your file
 3. Verify the staging area
