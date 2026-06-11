@@ -6,6 +6,7 @@
 - Programming
 - Web design
 - cyber security
+### Steps to make a commit in Git
 1. Check your changes
 2. Stage your file
 3. Verify the staging area
